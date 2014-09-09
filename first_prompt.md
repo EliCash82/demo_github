@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>PROMPT</title>
+</head>
+
+<body>
+
+INSERT ONE PARAGRAPH HERE
+
+INSERT ONE ORDERED LIST HERE WITH AT LEAST TWO ITEMS
+
+INSERT ONE HYPERLINK HERE
+
+INSERT ONE IMAGE HERE
+
+</body>
+
+</html>
