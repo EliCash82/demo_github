@@ -26,7 +26,9 @@ Styled Header
 ---
 
 IMAGE:
+
 ![Picture](http://content9.flixster.com/question/44/48/07/4448075_std.jpg)
 
 LINK:
+
 [I'm a link](http://www.google.com)
